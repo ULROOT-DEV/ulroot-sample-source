@@ -1,0 +1,22 @@
+# Visual Studio / .NET 빌드 산출물 및 캐시
+.vs/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+
+# NuGet 패키지 (Visual Studio / nuget restore로 복원)
+packages/
+*.nupkg
+
+# OS / 편집기 생성 파일
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
